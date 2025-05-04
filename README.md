@@ -33,7 +33,9 @@
 
 ### Резюме на должность тестировщика, младшего QA инженера:
 
-[!(https://github.com/HollySiren/HollySiren/blob/main/QA-Сиренко-Ольга.pdf)]()
+[QA-Сиренко-Ольга.pdf]()
+
+
 
 
 
