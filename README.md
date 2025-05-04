@@ -18,7 +18,7 @@
 ### Тестирование веб-приложений:
 ![Static Badge](https://img.shields.io/badge/-Postman-orange)
 ![Static Badge](https://img.shields.io/badge/-Swagger-lime)
-![Static Badge](https://img.shields.io/badge/-SoapUI-darkorange)
+![Static Badge](https://img.shields.io/badge/-SoapUI-lightyellow)
 ![Static Badge](https://img.shields.io/badge/-DevTools-steelblue)
 
 ### Работа с данными и кодом:
@@ -30,6 +30,10 @@
 ![Static Badge](https://img.shields.io/badge/-SCRUM-turquoise)
 ![Static Badge](https://img.shields.io/badge/-GitHub-silver)
 ![Static Badge](https://img.shields.io/badge/-ShareX-springgreen)
+
+### Резюме на должность тестировщика, младшего QA инженера:
+
+![Body](https://github.com/HollySiren/HollySiren/blob/main/QA-Сиренко-Ольга.pdf)
 
 
 
